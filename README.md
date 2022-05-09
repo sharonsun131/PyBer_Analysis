@@ -4,7 +4,9 @@
 
 The purpose of this new analysis is to know how ride-sharing data and the total weekly fares differs by city type, and how those differences can be used by the decision-makers at Pyber. 
 
-## Results: There is a description of the differences in ride-sharing data among the different city types. 
+## Results: The description of the differences in ride-sharing data among the different city types. 
+
+<img width="703" alt="Screen Shot 2022-05-08 at 7 36 39 PM" src="https://user-images.githubusercontent.com/102264298/167322655-bab8a924-24c1-49b5-95c8-42a7a44729de.png">
 
 ### Total rides
     The urban cities have the most rides among the the different city types and the number is 1625. 
@@ -19,7 +21,8 @@ The purpose of this new analysis is to know how ride-sharing data and the total 
 <img width="654" alt="total_drivers" src="https://user-images.githubusercontent.com/102264298/167322383-dff63c0e-dd7d-4fd1-8bac-35f2ab999f47.png">
 
 ### Total fares
-    The urban cities have the highest fare amount among the the different city types and the total amount of fares is 39854.38. 
+    The urban cities have the highest fare amount among the the different city types,
+    and the total amount of fares is 39854.38. 
     While the rural has the smallest fare amount, which is 4327.93. 
     
 <img width="656" alt="total_fares" src="https://user-images.githubusercontent.com/102264298/167322386-50d9453a-cf52-4359-a42e-f25fa36934c8.png">
