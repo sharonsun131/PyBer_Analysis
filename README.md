@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Overview of the analysis: The purpose of the new analysis is well defined. 
+## Overview of the analysis:
 
 The purpose of this new analysis is to know how ride-sharing data and the total weekly fares differs by city type, and how those differences can be used by the decision-makers at Pyber. 
 
@@ -39,7 +39,7 @@ The purpose of this new analysis is to know how ride-sharing data and the total 
 
 <img width="635" alt="average_fare_driver" src="https://user-images.githubusercontent.com/102264298/167322397-0ad9a572-99a4-4f68-a2a2-94d2a66edda1.png">
 
-## Summary: There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+## Summary: Three business recommendations to the CEO for addressing any disparities among the city types. 
 
 1. Urban cities have the highest total fare and total rides among these there city types. AS a result, the majority pf Pyber's revenue occurs in urban cityes. Therefore it is the best performing city type and should be invested more in this type to make more profits. 
  
